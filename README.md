@@ -27,13 +27,8 @@ I leave a few links here so you can contact me :
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat-quare&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=flat-quare&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-quare&logo=microsoft-sql-server&logoColor=white)  
-
-  
-## Loading . . . 
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat-quare&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-quare&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=flat-quare&logo=react&logoColor=61DAFB)
-
 
 # GitHub Stats
 
